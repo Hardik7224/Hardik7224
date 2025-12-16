@@ -23,7 +23,7 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 
 ---
 
-# 📊 GitHub Stats: 
+## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Hardik7224&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hardik7224&theme=midnight-purple&hide_border=false)
@@ -31,7 +31,6 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik7224&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hardik7224&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🌐 Connect With Me
 <p align="left">
