@@ -35,15 +35,18 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.facebook.com/hardik.choudhary.12979" target="_blank" style="margin-right:15px;">
+  <a href="https://www.facebook.com/hardik.choudhary.12979" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/_hardik__84_/" target="_blank" style="margin-right:15px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_hardik__84_/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/hardik-choudhary-56849a316/" target="_blank" style="margin-right:15px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hardik-choudhary-56849a316/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hardikchoudhary570@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
   </a>
