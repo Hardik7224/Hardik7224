@@ -25,10 +25,9 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:hardikchoudhary570@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
-  </a>
-</p>
+  <a href="mailto:hardikchoudhary570@gmail.com?subject=GitHub%20Contact">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+</a>
 
 
 # 💻 Tech Stack:
