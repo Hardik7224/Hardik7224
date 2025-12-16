@@ -54,7 +54,5 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Hardik7224&icon=0&color=0" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hardik7224&label=Profile%20Views&color=8b5cf6&style=flat" />
 </p>
