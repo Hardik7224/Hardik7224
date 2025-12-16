@@ -11,23 +11,25 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://facebook.com/HardikChoudhary" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35" />
+
+<p>
+  <a href="https://www.facebook.com/hardik.choudhary.12979" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_hardik__84_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" />
+  <a href="https://www.instagram.com/_hardik__84_/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hardik-choudhary" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  <a href="https://www.linkedin.com/in/hardik-choudhary-56849a316/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hardikchoudhary570@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
   </a>
-</p> 
+</p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
