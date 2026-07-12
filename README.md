@@ -15,6 +15,8 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,13 +31,12 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 
 <br/>
 
-![](https://streak-stats.demolab.com?user=Harshit786zs&theme=midnight-purple)
+![](https://streak-stats.demolab.com?user=Hardik7224&theme=midnight-purple)
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit786zs&layout=compact&theme=midnight-purple&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik7224&layout=compact&theme=midnight-purple&count_private=true)
 
----
 ---
 
 ### 🌐 Connect With Me
