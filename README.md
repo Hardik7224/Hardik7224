@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 👨‍💻 **Hardik Choudhary** | CS Student | Java Developer | Machine Learning & Data Enthusiast
+
 I’m passionate about transforming data into meaningful insights and building efficient, scalable code.  
 Currently learning **Data Analytics**, **Python**, and **Java systems programming** while strengthening my problem-solving skills.
 
