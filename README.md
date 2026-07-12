@@ -6,6 +6,7 @@
 I am passionate about building efficient, scalable applications and leveraging data to solve real-world problems. Currently, I am deepening my expertise in **Java**, **Spring Boot**, **Python**, and **Data Analytics** while continuously enhancing my problem-solving, backend development, and software engineering skills.
 
 📌 **Building | Optimizing | Innovating**
+
 🤝 Open to collaboration and exciting opportunities.
 
 ---
