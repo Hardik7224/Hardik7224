@@ -28,11 +28,6 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hardik7224&show_icons=true&theme=midnight-purple" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hardik7224&layout=compact&theme=midnight-purple" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Hardik7224&theme=midnight-purple"/>
 </p>
 
