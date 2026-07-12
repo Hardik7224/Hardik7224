@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hello+World!;I'm+Hardik;Java+Developer;Spring+Boot+Developer;Machine+Learning+Engineer+in+Progress" />
+</p>
 ## Hi there 👋
 
 ## 💫 About Me:
