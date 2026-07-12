@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=9333EA&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Hardik;Full+Stack+Java+Developer;Spring+Boot+%7C+Java+%7C+Python;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-</p> 
-<h1 align="center">Hi 👋, I'm Hardik</h1>
+## Hi there 👋
 
-<h3 align="center">
-A Passionate Java Developer | Spring Boot Developer | Machine Learning Enthusiast
-</h3>
-
+## 💫 About Me:
+👨‍💻 **Hardik Choudhary** | CS Student | Java Developer | Machine Learning & Data Enthusiast
 I’m passionate about transforming data into meaningful insights and building efficient, scalable code.  
 Currently learning **Data Analytics**, **Python**, and **Java systems programming** while strengthening my problem-solving skills.
 
