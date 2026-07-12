@@ -25,12 +25,17 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hardik7224&theme=midnight-purple&include_all_commits=true&cache_seconds=1800)
-<br/>
-![](https://streak-stats.demolab.com/?user=Hardik7224&theme=midnight-purple)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik7224&layout=compact&theme=midnight-purple&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=Hardik7224&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
 
+<br/>
+
+![](https://streak-stats.demolab.com?user=Harshit786zs&theme=midnight-purple)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit786zs&layout=compact&theme=midnight-purple&count_private=true)
+
+---
 ---
 
 ### 🌐 Connect With Me
