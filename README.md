@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hardik7224&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
+
 ## Hi there 👋
 
 ## 💫 About Me:
