@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hardik7224&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
-
 ## Hi there 👋
 
 ## 💫 About Me:
@@ -65,5 +61,5 @@ Currently learning **Data Analytics**, **Python**, and **Java systems programmin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hardik7224&label=Profile%20Views&color=8b5cf6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Hardik7224&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
