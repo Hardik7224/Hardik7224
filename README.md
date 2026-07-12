@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💫 About Me:
-👨‍💻 **Hardik Choudhary** | CS Student | Java Developer | Machine Learning & Data Enthusiast
+👨‍💻 **Hardik Choudhary | Java Developer | Machine Learning & Data Enthusiast**
 
 I am passionate about building efficient, scalable applications and leveraging data to solve real-world problems. Currently, I am deepening my expertise in **Java**, **Spring Boot**, **Python**, and **Data Analytics** while continuously enhancing my problem-solving, backend development, and software engineering skills.
 
